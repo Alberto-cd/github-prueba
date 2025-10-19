@@ -1,4 +1,5 @@
 def sumar(a, b):
+    print(b, a)
     return a + b
 
 def restar(a, b):
